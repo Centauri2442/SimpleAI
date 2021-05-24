@@ -5,6 +5,15 @@ SimpleAI features multiple different forms of AI, and is meant to be used alongs
 I hope to expand on the amount of AI's in the future, so if you have any AI suggestions you'd like me to add SimpleAI, feel free to send me a message on [Discord](https://discord.gg/HZj7KQr)!
 
 ---
+# Dependencies
+
+Unity 2018.4.20f1 \
+[VRCSDK3](https://vrchat.com/home/download) \
+[UdonSharp](https://github.com/MerlinVR/UdonSharp/releases)
+
+
+
+---
 
 # Credits
 
