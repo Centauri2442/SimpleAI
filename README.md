@@ -7,7 +7,7 @@ I hope to expand on the amount of AI's in the future, so if you have any AI sugg
 ---
 # Dependencies
 
-Unity 2018.4.20f1 \
+Unity 2019.4.29f1 \
 [VRCSDK3](https://vrchat.com/home/download) \
 [UdonSharp](https://github.com/MerlinVR/UdonSharp/releases)
 
