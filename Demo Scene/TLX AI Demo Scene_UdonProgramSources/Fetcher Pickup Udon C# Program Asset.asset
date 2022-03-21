@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: Fetcher Pickup Udon C# Program Asset
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 2a33d2be7cf29714b89eb5303e54b908,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 615f72f5f645c114280a4aaf23b7e448,
     type: 2}
   udonAssembly: 
   assemblyError: 
@@ -315,8 +315,8 @@ MonoBehaviour:
       Data: 21|UnityEngine.TooltipAttribute, UnityEngine.CoreModule
     - Name: tooltip
       Entry: 1
-      Data: Minimum distance from the player the fetchable object needs to be in order
-        for it to be a valid throw!
+      Data: Minimum distance from the player the fetchable object needs to be in
+        order for it to be a valid throw!
     - Name: 
       Entry: 8
       Data: 

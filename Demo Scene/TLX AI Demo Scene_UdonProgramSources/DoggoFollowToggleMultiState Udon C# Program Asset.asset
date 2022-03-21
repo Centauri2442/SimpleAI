@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c333ccfdd0cbdbc4ca30cef2dd6e6b9b, type: 3}
   m_Name: DoggoFollowToggleMultiState Udon C# Program Asset
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: c3d5ae47e4ed78c4cbd880e6a1683b78,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: dae2751cf809cdf4e954a1eb879edf53,
     type: 2}
   udonAssembly: 
   assemblyError: 
