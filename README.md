@@ -2,7 +2,7 @@
 
 SimpleAI features multiple different forms of AI, and is meant to be used alongside the tutorial that I did as part of TLX! It is useful beyond that however, as there is multiple different AI's that you can base your own AI's off of!
 
-I hope to expand on the amount of AI's in the future, so if you have any AI suggestions you'd like me to add SimpleAI, feel free to send me a message on discord!
+I hope to expand on the amount of AI's in the future, so if you have any AI suggestions you'd like me to add SimpleAI, feel free to send me a message on [Discord](https://discord.gg/HZj7KQr)!
 
 ---
 
