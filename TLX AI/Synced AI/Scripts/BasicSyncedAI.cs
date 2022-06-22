@@ -10,8 +10,8 @@ namespace SimpleAI
 {
     public class BasicSyncedAI : UdonSharpBehaviour
     {
-        [Header("Basic Synced Dog AI")] [HideInInspector] [UdonSynced]
-        public int CurrentState; // The AIs internal state!
+        [Header("Basic Synced Dog AI")] 
+        [UdonSynced] public int CurrentState; // The AIs internal state!
         // 0 - Wandering
         // 1 - Follow Player
         // 2 - Stand Still
@@ -79,6 +79,8 @@ namespace SimpleAI
 
         private void Update()
         {
+            Debug.DrawLine(CurrentDestination, CurrentDestination + Vector3.up * 10, Color.green);
+            
             // Feed AI info into the animator
             AIAnimator.SetInteger("State", CurrentState);
             AIAnimator.SetFloat("Velocity", AIVelocity);
@@ -119,7 +121,7 @@ namespace SimpleAI
                         }
                     }
 
-                    if (Agent.remainingDistance < 1 // | Remaining distance must always be greater than the stopping distance!
+                    if (Agent.remainingDistance < Agent.stoppingDistance + 0.5f // | Remaining distance must always be greater than the stopping distance!
                         && HasSetNextPosition) //Makes sure a new position has been set!
                     {
                         IsMovingToNext = false;
@@ -170,6 +172,7 @@ namespace SimpleAI
 
         public void StartWandering() // Function used to force the AI to find a new random position!
         {
+            Debug.Log("Finding new wandering waypoint!");
             SetAIDestination(CalculateRandomPosition(MaxWanderDistance));
         }
 
