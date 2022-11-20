@@ -6,7 +6,7 @@ I hope to expand on the amount of AI's in the future, so if you have any AI sugg
 
 # TLX Talk
 
-https://www.youtube.com/watch?v=LVC0WTLjutM&ab_channel=0Allu
+https://www.youtube.com/watch?v=xVXXS7HX7Og&ab_channel=TLX
 
 # Dependencies
 
