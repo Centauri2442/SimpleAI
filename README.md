@@ -8,7 +8,7 @@ I hope to expand on the amount of AI's in the future, so if you have any AI sugg
 
 https://www.youtube.com/watch?v=xVXXS7HX7Og&ab_channel=TLX
 
-# UNITY 2022 NOTICE
+# Unity 2022 Notice
 
 Unity has moved AI navigation to a dedicated package, found by searching Navigation in the package manager.
 
