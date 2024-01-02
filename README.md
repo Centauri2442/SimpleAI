@@ -10,7 +10,12 @@ https://www.youtube.com/watch?v=xVXXS7HX7Og&ab_channel=TLX
 
 # Unity 2022 Notice
 
-Unity has moved AI navigation to a dedicated package, found by searching Navigation in the package manager.
+Unity has moved AI navigation to a dedicated package, found by searching AI Navigation in the package manager. VRChat has yet to properly support the newer navigation package, so you must also now mark objects as navigation static and offmeshlink static in the 'Navigation (Obsolete)' panel.
+
+[Relevant Canny](https://feedback.vrchat.com/feature-requests/p/please-support-the-new-ai-navigation-in-unity-2022)
+
+![image](https://github.com/Centauri2442/SimpleAI/assets/28989460/d2d4395a-40eb-4eea-928c-09016f4b9e80)
+
 
 # Dependencies
 
