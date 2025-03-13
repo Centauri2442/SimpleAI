@@ -2,20 +2,13 @@
 
 SimpleAI features multiple different forms of AI, and is meant to be used alongside the tutorial that I did as part of TLX! It is useful beyond that however, as there is multiple different AI's that you can base your own AI's off of!
 
-I hope to expand on the amount of AI's in the future, so if you have any AI suggestions you'd like me to add SimpleAI, feel free to send me a message on [Discord](https://discord.gg/HZj7KQr)!
-
 # TLX Talk
 
 https://www.youtube.com/watch?v=xVXXS7HX7Og&ab_channel=TLX
 
-# Unity 2022 Notice
+# Notice
 
-Unity has moved AI navigation to a dedicated package, found by searching AI Navigation in the package manager. VRChat has yet to properly support the newer navigation package, so you must also now mark objects as navigation static and offmeshlink static in the 'Navigation (Obsolete)' panel.
-
-[Relevant Canny](https://feedback.vrchat.com/feature-requests/p/please-support-the-new-ai-navigation-in-unity-2022)
-
-![image](https://github.com/Centauri2442/SimpleAI/assets/28989460/d2d4395a-40eb-4eea-928c-09016f4b9e80)
-
+This asset is not being actively developed, and only acts as a reference for possible AI implementations within VRChat.
 
 # Dependencies
 
